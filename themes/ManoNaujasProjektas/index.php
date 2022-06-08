@@ -1,4 +1,52 @@
-<?php get_header(); ?> 
+<body>
+
+    <!-- Nav block -->
+    <div class="navigation">
+
+        <nav class="navbar navbar-expand-lg .text-white ">
+            <div class="container">
+                <a href="#"><img src="icons/Logo malex.png"></a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+
+                    <ul class="navbar-nav">
+
+                        <li class="nav-item">
+                            <a class="nav-link active " aria-current="page" href="services.html">SERVICES</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="aboutUs.html">ABOUT US</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="team.html">TEAM</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="pricing.html">PRICING</a>
+                        </li>
+
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="news.html">NEWS</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#contacts">CONTACTS</a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
         <!-- Hero block -->
         <div class="wrapper h-100">
             <div class="container h-100">
@@ -741,4 +789,28 @@
 
 
 
-<?php get_footer(); ?> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
