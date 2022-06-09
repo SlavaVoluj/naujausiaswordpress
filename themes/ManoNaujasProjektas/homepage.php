@@ -1,3 +1,5 @@
+<?php /* Template Name: Homepage */ ?>
+
 <?php get_header(); ?> 
         <!-- Hero block -->
         <div class="wrapper h-100">
@@ -26,7 +28,7 @@
             </div>
         </div>
     </div>
-
+    
     <!-- Services block -->
 
     <div class="service">
@@ -34,7 +36,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4">
                     <div class="service-item">
-                        <img src="icons/horse icona.png" alt="horse">
+                        <img src= "WP-CONTENT/themes/ManoNaujasProjektas/assets/icons/horse icona.png" alt="horse">
                         <p></p>
 
                         <h4><b>Strategic Planning</b></h4>
@@ -55,7 +57,7 @@
 
                 <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4">
                     <div class="service-item">
-                        <img src="icons/zmogeliukas icon.png" alt="human">
+                        <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/icons/zmogeliukas icon.png" alt="human">
                         <p></p>
 
                         <h4><b>Consulting & Marketing</b></h4>
@@ -76,7 +78,7 @@
 
                 <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4">
                     <div class="service-item">
-                        <img src="icons/finansai icon.png" alt="human">
+                        <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/icons/finansai icon.png" alt="human">
 
                         <p></p>
                         <h4><b>Financial</b></h4>
@@ -116,7 +118,7 @@
 
                     <div class="signature1">
                         <div class="signatrure-img">
-                            <img src="icons/Signature 1.png" alt="signature">
+                            <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/icons/Signature 1.png" alt="signature">
                         </div>
                         <p> &nbsp; </p>
                         <div class="signature-content">
@@ -182,7 +184,7 @@
 
     <div class="justphoto1">
 
-        <img src="nuotraukos/office1.jpg" alt="">
+        <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/nuotraukos/office1.jpg" alt="">
 
     </div>
 
@@ -201,12 +203,12 @@
     <div class="bestteam">
         <div class="container-fluid">
 
-
+       
 
             <div class="owl-carousel owl-theme">
 
                 <div class="card">
-                    <img src="nuotraukos/teamlider2.jpg" alt="image" class="card-img-top">
+                    <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/nuotraukos/teamlider1.jpg" alt="image" class="card-img-top">
                     <div class="card-body">
                         <h3><b>Tom Henders</b></h3>
                         <br>
@@ -215,7 +217,7 @@
                 </div>
 
                 <div class="card">
-                    <img src="nuotraukos/teamlider3.jpg" alt="image" class="card-img-top">
+                    <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/nuotraukos/teamlider3.jpg" alt="image" class="card-img-top">
                     <div class="card-body">
                         <h3><b>Andrew Mike</b></h3>
                         <br>
@@ -224,7 +226,7 @@
                 </div>
 
                 <div class="card">
-                    <img src="nuotraukos/teamlider1.jpg" alt="image" class="card-img-top">
+                    <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/nuotraukos/teamlider2.jpg" alt="image" class="card-img-top">
                     <div class="card-body">
                         <h3><b>Rosie Ford</b></h3>
                         <br>
@@ -234,7 +236,7 @@
 
 
                 <div class="card">
-                    <img src="nuotraukos/teamlider4.jpg" alt="image" class="card-img-top">
+                    <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/nuotraukos/teamlider4.jpg" alt="image" class="card-img-top">
                     <div class="card-body">
                         <h3><b>Tiger Wesley</b></h3>
                         <br>
@@ -244,7 +246,7 @@
 
 
                 <div class="card">
-                    <img src="nuotraukos/teamlider6.jpg" alt="image" class="card-img-top">
+                    <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/nuotraukos/teamlider6.jpg" alt="image" class="card-img-top">
                     <div class="card-body">
                         <h3><b>Michael Wesley</b></h3>
                         <br>
@@ -253,7 +255,7 @@
                 </div>
 
                 <div class="card">
-                    <img src="nuotraukos/teamlider7.jpg" alt="image" class="card-img-top">
+                    <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/nuotraukos/teamlider7.jpg" alt="image" class="card-img-top">
                     <div class="card-body">
                         <h3><b>Mishel Warner</b></h3>
                         <br>
@@ -262,7 +264,7 @@
                 </div>
 
                 <div class="card">
-                    <img src="nuotraukos/teamlider8.jpg" alt="image" class="card-img-top">
+                    <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/nuotraukos/teamlider1.jpg" alt="image" class="card-img-top">
                     <div class="card-body">
                         <h3><b>Gabi Wundeba</b></h3>
                         <br>
@@ -473,7 +475,7 @@
         <div class="col-md-4">
           <div class="box">
             <div class="img-box">
-              <img src="nuotraukos/news1.jpg" alt="">
+              <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/nuotraukos/news1.jpg" alt="">
             </div>
             <div class="action-box">
               <div class="action">
@@ -501,7 +503,7 @@
         <div class="col-md-4">
           <div class="box">
             <div class="img-box">
-              <img src="nuotraukos/news2.jpg" alt="">
+              <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/nuotraukos/news2.jpg" alt="">
             </div>
             <div class="action-box">
               <div class="action">
@@ -529,7 +531,7 @@
         <div class="col-md-4">
           <div class="box">
             <div class="img-box">
-              <img src="nuotraukos/news3.jpg" alt="">
+              <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/nuotraukos/news1.jpg" alt="">
             </div>
             <div class="action-box">
               <div class="action">

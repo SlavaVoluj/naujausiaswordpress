@@ -82,7 +82,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4">
                     <div class="service-item">
-                        <img src="icons/horse icona.png" alt="horse">
+                        <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/icons/horse icon.png" alt="horse">
                         <p></p>
 
                         <h4><b>Strategic Planning</b></h4>
@@ -230,7 +230,7 @@
 
     <div class="justphoto1">
 
-        <img src="nuotraukos/office1.jpg" alt="">
+        <img src="WP-CONTENT/themes/ManoNaujasProjektas/assets/icons/office1.jpg" alt="">
 
     </div>
 

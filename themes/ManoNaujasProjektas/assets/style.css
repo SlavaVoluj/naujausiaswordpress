@@ -242,7 +242,7 @@
     border-top: #6c6c6c;
   
     padding-top: 20px;
-    padding-bottom: 30px;
+    
     background-color: #c5b7b7;
   }
   
@@ -251,3 +251,85 @@
     background-color: beige;
   }
   
+  /* Services2 */
+
+.service1 .container{
+  margin-top: 80px;
+  
+  justify-content: space-between;
+}
+
+.service1 .service-item{
+  position: relative;
+  
+  width: 500;
+  height: 100%;
+  text-align: left;
+  padding: 2.632rem ;
+ 
+  background-color: #fff;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.service1 .service-item p{
+font-size: 19px;
+color: #d0c0c0;
+}
+
+/* Navigacija2 */
+.navigation2 {
+  position: relative;
+  background-color: rgb(223, 223, 117);
+ min-height: 100vh;
+ background-size: cover;
+ background-position: center;
+ padding: 20px 0 200px;
+}
+.navigation2 .wrapper
+{
+  color: white;
+  padding-top: 80px;
+  padding-left: 150px;
+  }
+
+  .navigation2 .wrapper h1{
+    font-weight: 700;
+    font-size: 76px;
+  }
+  .navigation2 .wrapper p{
+    font-size: 19px;
+    font-weight: 400;
+  }
+
+.navigation2  a {
+  color: rgb(10, 9, 9) !important;
+ font-weight: 650;
+}
+
+.navigation2 .btn-outline-tertiary {
+  color: #fff;
+  border-color: #fff;
+}
+.navigation2 .nav
+{
+  font-size: 17px;
+margin: 10px;
+padding-left: 10px;
+padding-right: 40px;
+
+}
+.navigation2 .nav a{
+  text-decoration: none;
+margin: 5px;
+font-size: 17px;
+}
+
+
+a#navbarDropdownMenuLink {
+  color: black;
+}
+
+ul.navbar-nav {
+  margin-left: auto;
+  margin-right: 50px;
+}
